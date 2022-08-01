@@ -1,3 +1,8 @@
+This project was created for Algorithms for Bioinformatics at Johns Hopkins University 
+as part of the AAP M.S. Bioinformatics degree plan.
+This program multiplies two matrices using conventional matrix multiplication algorithm
+(O(n^3)) and Strassen's matrix multiplication algorithm (O(n^lg7)).
+
 The source code in this assignment can be compiled with Java SE 8 from the command line.
 It was constructed using Atom v1.51.0.
 

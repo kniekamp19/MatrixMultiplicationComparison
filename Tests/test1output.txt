@@ -1,0 +1,22 @@
+
+Input matrix size: 2
+
+Input matrix A:
+5 5 
+-2 8 
+
+Input matrix B:
+0 -4 
+-3 8 
+
+Strassen's Algorithm:
+-15 20 
+-24 72 
+Number of multiplications: 7
+Time elapsed: 19300
+
+Conventional matrix multiplication:
+-15 20 
+-24 72 
+Number of multiplications: 8
+Time elapsed: 2800

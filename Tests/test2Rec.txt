@@ -1,0 +1,38 @@
+
+Input matrix size: 4
+
+Input matrix A:
+9 -4 1 6 
+5 -2 7 5 
+0 1 5 9 
+-2 0 0 1 
+
+Input matrix B:
+9 6 0 3 
+2 2 2 6 
+8 -2 6 9 
+6 8 -3 4 
+
+Strassen's Algorithm:
+117 92 -20 36 
+127 52 23 86 
+96 64 5 87 
+-12 -4 -3 -2 
+Number of multiplications: 56
+Time elapsed: 95400
+
+Conventional matrix multiplication:
+117 92 -20 36 
+127 52 23 86 
+96 64 5 87 
+-12 -4 -3 -2 
+Number of multiplications: 64
+Time elapsed: 5000
+
+Recursion conventional algorithm:
+117 92 -20 36 
+127 52 23 86 
+96 64 5 87 
+-12 -4 -3 -2 
+Number of multiplications: 72
+Time elapsed: 61900

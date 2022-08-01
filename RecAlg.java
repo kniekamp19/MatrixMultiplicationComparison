@@ -3,7 +3,7 @@ Kristen Niekamp
 Lab 1 - Matrix Multiplication
 
 This class contains a recursive version of conventional matrix multiplication
-as described in section 4.2 of the textbook under "A simple divide-and-conquer
+as described in section 4.2 of CLRS under "A simple divide-and-conquer
 algorithm". This algorithm takes O(n^3), which is the same as the iterative
 version in the file "ConventMult.java".
 */
